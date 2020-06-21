@@ -1,0 +1,10 @@
+[package]
+edition = "2018"
+name = "diffie-hellman"
+version = "0.1.0"
+
+[dependencies]
+random-number = "0.1.1"
+
+[features]
+big-primes = []
